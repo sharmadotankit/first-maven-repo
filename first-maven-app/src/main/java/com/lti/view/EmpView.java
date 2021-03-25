@@ -3,7 +3,7 @@ package com.lti.view;
 import com.lti.model.Employee;
 
 class EmpView {
-	public static void main(String[] args) {
+	public static void main(String []args) {
 		Employee emp = new Employee();
 		emp.setEmpId(1002);
 		emp.setEmpName("Ankit");
