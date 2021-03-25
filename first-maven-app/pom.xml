@@ -3,6 +3,9 @@
   <groupId>com.lti</groupId>
   <artifactId>first-maven-app</artifactId>
   <version>1.0</version>
+   <configuration>
+             <mainClass>Main</mainClass>
+   </configuration>
   <dependencies>
   	<dependency>
 	    <groupId>junit</groupId>
